@@ -1,10 +1,10 @@
 # A repository for all notes and links to study AI-ML
-A repository to keep notes for myself as I tent to forget which videos or blogpost I read to better understand of a topic.
-So, this repo will contain links of any resources that I referred such as youtube, any courses, blogpost, research paper, etc.
+A repository to keep notes for myself as I tent to forget which resources I used for a better understanding of a topic.
+So, the repo will contain links of any resources (YouTube videos, any courses, blogposts, research paper, etc.) used.
 
 Below is a base structure. Will keep updating it.
 
-# AI, ML, and DL Curriculum with Resources
+# AI, ML, and DL Curriculum with Resources (ChatGPT generated)
 
 ## 1. Foundations of AI and ML
 
@@ -200,4 +200,4 @@ Below is a base structure. Will keep updating it.
 - **Resources**:
   - [MLOps Guide - Towards Data Science](https://towardsdatascience.com/)
 
-This markdown version is ready to be pasted into any markdown editor. Let me know if you need further adjustments!
+
